@@ -1,13 +1,10 @@
 # Overview
 
-The Java 12 was release at 03/2019 and the main features are:
+The Java 9 was release at 06/17 and the main features are:
 
-- Switch expression
-- File mismatch method
-- Compact Number Formatting
-- Teeing Collector
-- Strings New Methods
+- HTTP Client
+
 
 The full release notes is [here]
 
-[here]: https://www.oracle.com/technetwork/java/javase/12-relnote-issues-5211422.html
+[here]: https://www.oracle.com/technetwork/java/javase/9all-relnotes-3704433.html
