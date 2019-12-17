@@ -4,6 +4,7 @@ The Java 9 was release at 06/17 and the main features are:
 
 - HTTP Client
 - Interface Private Method
+- Try-catch resources
 
 The full release notes is [here]
 
